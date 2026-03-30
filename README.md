@@ -1,11 +1,11 @@
 ---
 tags:
   - ифня
-  - обзор
+  - отзыв
   - комикс
   - pete_pr
 ---
-# Сердца, скреплённые скотчем (обзор)
+# Сердца, скреплённые скотчем (отзыв)
 
 ![HeartsTapedTogether](https://gretmn102.github.io/HeartsTapedTogetherReview/HeartsTapedTogether.png)
 
